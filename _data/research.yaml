@@ -1,11 +1,10 @@
 categories:
 
-  - data-filter: deep learning
+  - data-filter: Deep Learning
     category-name: Deep Learning
 
-  - data-filter: GPU simulation
-    category-name: GPU simulation
-
+  - data-filter: GPU Simulation
+    category-name: GPU Simulation
 
 projects:
 
@@ -24,7 +23,7 @@ projects:
     abstract-less: Synthetic panoramic radiography from dental computed tomography(CT) scans offers reduced patient doses and scan times in dental diagnostics, enhancing patient comfort and clinical efficiency. However, the synthetic images often suffer from lower resolution compared to conventional panoramic x-ray images. 
     abstract-more: To circumvent this issue, our research innovatively employs an unsupervised learning approach with Cycle Generative Adversarial Networks(CycleGAN), eliminating the need for paired low- and high-resolution images, which are relatively small and challenging to collect. We successfully enhance the resolution of these synthetic images, circumventing the need for hard-to-obtain paired low- and high-resolution images. Our trained network significantly outperforms traditional techniques, as evidenced by both quantitative and qualitative evaluations, representing sharper line profiles and higher contrast-to-noise ratio, with similar to conventional panoramic radiography.
 
-    tag: more_generative models
+    tag: more_Deep Learning
     category: Deep Learning
 
   - title: Comparison of Filter Material in Cone Beam Computed Tomography for Dental Imaging
@@ -40,7 +39,7 @@ projects:
     talk: 
     abstract-less: This study presents a comprehensive evaluation of filter materials in Cone Beam Computed Tomography (CBCT) with a focus on dental imaging. Utilizing a custom-made calibration phantom, we assessed various filters based on their impact on contrast-to-noise ratio (CNR), uniformity, and spatial resolution. The CBCT scans of the phantom were conducted through GPU simulation, 
     abstract-more: enabling a precise comparison of the effects induced by each filter material. Among the filters tested, tin, copper, and a combination of tin and copper were selected for a detailed analysis of their influence on CNR. The investigation extended to clinical data to validate the experimental outcomes. Results demonstrated that the tin filter notably enhances image quality by reducing streak artifacts and improving CNR. This study provides vital insights into the optimization of filter materials in CBCT for dental imaging, offering a path toward improved diagnostic capabilities and patient outcomes.
-    tag: more_physics
+    tag: more_GPU Simulation
     category: GPU Simulation
   
   - title: Patient-Specific Volumetric Reconstruction from Sparse 2D CT Scans in Lung Cancer Patients.
@@ -57,5 +56,5 @@ projects:
     talk: 
     abstract-less: This thesis presents an approach to volumetric reconstruction in lung cancer patients, leveraging sparse 2D CT scans obtained from 4DCT data. By augmenting the data through the transference of cancerous lesions across 
     abstract-more: different patients' lung locations, this research endeavors to address the limitations imposed by the sparse nature of the available imaging views. Utilizing a deep learning architecture, we undertake the task of reconstructing 3D volumetric data from a limited subset of 360 possible views, a method that significantly enhances the utility and information density of conventional CT imaging techniques. Through extensive experimentation and validation on lung cancer patient datasets, this study validates the efficacy of deep learning models in generating precise 3D reconstructions from minimal input.
-    tag: more_deep learning
+    tag: more_Deep Learning
     category: Deep Learning
