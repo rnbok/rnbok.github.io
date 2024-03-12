@@ -1,0 +1,31 @@
+pictures:
+  
+  - source: assets/memo/spie24.jpg
+    caption: SPIE medical imaging conference
+    year: 2024
+
+  - source: assets/memo/ieee23.jpg
+    caption: IEEE conference
+    year: 2023
+
+  - source: assets/memo/ksri23.jpg
+    caption: KSRI conference
+    year: 2023
+
+  - source: assets/memo/ksmp23.jpg
+    caption: KSMP conference
+    year: 2023
+
+  - source: assets/memo/ifmia23.jpg
+    caption: My lab members in Jeju Island 
+    year: 2023
+
+  - source: assets/memo/yellowstone.jpg
+    caption: Hiking in Yellowstone
+    year: 2022
+
+  - source: assets/memo/halloween.jpg
+    caption: Happy Halloween with INL interns
+    year: 2021
+
+introduction: not all about conference, but also some happy moments of my life.
